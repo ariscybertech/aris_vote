@@ -1,0 +1,18 @@
+name: vote
+description: >-
+  A number of voting methods implemented in Dart with base classes that allow
+  easy comparison between implementations.
+version: 2.2.0-dev
+repository: https://github.com/kevmoo/vote.dart
+
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+
+dependencies:
+  collection: ^1.15.0
+  graphs: ^2.0.0
+  meta: ^1.3.0
+  string_scanner: ^1.1.0
+
+dev_dependencies:
+  test: ^1.16.0
